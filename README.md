@@ -1,16 +1,173 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Abdullah%20Al%20Shahriar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=55"/>
+</p>
 
-<!--
-**claude17/claude17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Hi 👋 I'm Abdullah Al Shahriar
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Backend Developer • Full Stack Developer • Machine Learning Enthusiast
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Passionate about building scalable backend systems, REST APIs, and modern web applications.
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Computer Science graduate passionate about designing reliable backend systems and creating modern full-stack web applications.
+
+I enjoy solving real-world problems with clean architecture, scalable APIs, and efficient database design. Alongside web development, I also explore Machine Learning and Computer Vision using YOLO.
+
+- 🌱 Currently learning **System Design** and **Docker**
+- 💻 Building scalable applications with **NestJS** & **Next.js**
+- 🛠️ Exploring backend architecture and clean code practices
+- 🤖 Interested in Machine Learning and Computer Vision
+- 🎯 Goal: Become a professional Backend Software Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+### Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 💊 Medico — Online Medicine Delivery Platform
+
+- NestJS
+- Next.js
+- PostgreSQL
+- Tailwind CSS
+- REST API
+
+Backend-focused medicine delivery platform with authentication, product management, shopping cart, order management, and role-based access.
+
+---
+
+### 🤖 NextGenRobotics
+
+E-commerce platform for robotics components built using ASP.NET MVC, Entity Framework, REST APIs and MS SQL Server.
+
+---
+
+### 🚗 Vehicle Detection & Counting
+
+Computer Vision project using
+
+- YOLOv8
+- ByteTracker
+- Supervision
+
+for real-time vehicle detection and counting from fixed cameras.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/claude17">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:a.alshahriar23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=claude17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claude17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=claude17&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=claude17&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=claude17&style=for-the-badge&color=blue"/>
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
