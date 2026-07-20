@@ -30,53 +30,51 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Technology Stack
 
-### Languages
-
+### 👨‍💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php,python" />
 </p>
 
-### Frontend
-
+### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
-### Backend
+### 🎭 CSS Frameworks & UI
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
 
+### ⚙️ Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet" />
 </p>
 
-### Database
-
+### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### Tools
-
+### 🔗 APIs & Architecture
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 </p>
 
-### Machine Learning
-
+### 🤖 Machine Learning & Computer Vision
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
 </p>
 
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 ---
 
 ## 📌 Featured Projects
