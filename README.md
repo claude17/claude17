@@ -60,12 +60,13 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 </p>
 
 
-### ⚙️ Backend Development
+### ⚙️ Backend Frameworks & Runtime
 
 <p>
 <a href="https://github.com/claude17"><img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="48"/></a>
+<a href="https://github.com/claude17"><img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="48"/></a>
 <a href="https://github.com/claude17"><img title="NestJS" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs" height="48"/></a>
-<a href="https://github.com/claude17"><img title="ASP.NET" alt="ASP.NET" src="https://skillicons.dev/icons?i=dotnet" height="48"/></a>
+<a href="https://github.com/claude17"><img title="ASP.NET MVC / .NET" alt="ASP.NET MVC / .NET" src="https://skillicons.dev/icons?i=dotnet" height="48"/></a>
 </p>
 
 
