@@ -6,7 +6,7 @@
 Hi 👋 I'm Abdullah Al Shahriar
 </h1>
 
-<h1 align="center>
+<h1 align="center">
 <a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" style="max-width: 100%;"></a>
 </h1>
 
