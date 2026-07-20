@@ -6,9 +6,7 @@
 Hi 👋 I'm Abdullah Al Shahriar
 </h1>
 
-<h3 align="center">
-Full Stack Developer • Backend Developer • Machine Learning Enthusiast
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
 Passionate about building scalable backend systems, REST APIs, and modern web applications.
