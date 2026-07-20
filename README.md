@@ -4,10 +4,10 @@
 
 <h1 align="center">
 Hi 👋 I'm Abdullah Al Shahriar
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 </h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-
 <p align="center">
 Passionate about building scalable backend systems, REST APIs, and modern web applications.
 </p>
