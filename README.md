@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Abdullah%20Al%20Shahriar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Abdullah%20Al%20Shahriar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=55"/>
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@ Hi 👋 I'm Abdullah Al Shahriar
 </h1>
 
 <h1 align="center">
-<a href="https://github.com/claude17" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast"></a>
+<a href="https://github.com/claude17" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast"></a>
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@ Passionate about building scalable backend systems, REST APIs, and modern web ap
 
 ## 🚀 About Me
 
-I'm a passionate **Backend & Full-Stack Developer** with a strong interest in building scalable web applications, designing RESTful APIs, and solving real-world problems through clean and efficient code. Alongside software development, I'm passionate about exploring **Machine Learning** and interested in **Computer Vision**..
+I'm a passionate **Backend & Full-Stack Developer** with a strong interest in building scalable web applications, designing RESTful APIs, and solving real-world problems through clean and efficient code. Alongside software development, I'm passionate about exploring **Machine Learning** and interested in **Computer Vision**.
 
 - 🔭 Currently working on **full-stack web applications using Next.js, Express & PostgreSQL**
 - 🌱 Exploring and learning **Next.js**
