@@ -7,7 +7,7 @@ Hi 👋 I'm Abdullah Al Shahriar
 </h1>
 
 <h1 align="center>
-<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/b1942d595ac3ed52fcc8ebbcc9aa7ea5586862a2944cf43ef3a8e2995494cdfb/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4d6f6e74736572726174267765696768743d3530302673697a653d32352670617573653d3130303026636f6c6f723d3242393046462663656e7465723d74727565267643656e7465723d747275652677696474683d353030266c696e65733d546563686e6963616c2b496e7374727563746f722b4050483b50617373696f6e6174652b46756c6c2b537461636b2b5765622b446576656c6f7065723b4a6176615363726970742b456e74687573696173743b496e74657265737465642b696e2b42696f696e666f726d6174696373" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" style="max-width: 100%;"></a>
+<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" style="max-width: 100%;"></a>
 </h1>
 
 <p align="center">
