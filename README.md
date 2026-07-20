@@ -7,7 +7,7 @@ Hi 👋 I'm Abdullah Al Shahriar
 </h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" style="max-width: 100%;"></a>
+<a href="https://github.com/claude17" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast"></a>
 </h1>
 
 <p align="center">
@@ -23,8 +23,8 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 - 🔭 Currently working on **full-stack web applications using Next.js, Express & PostgreSQL**
 - 🌱 Exploring and learning **Next.js**
 - 🤖 Interested in **Machine Learning** and **Computer Vision**
-- 📝 Checkout my <a href="https://shahriar-portfolio-woad.vercel.app/assets/resume-BGnMIIkB.pdf">resume</a> 
-- 📫 Reach me at **a.alshahriar23@gmail.com**
+- 📝 Checkout my <a href="https://shahriar-portfolio-woad.vercel.app/assets/resume-BGnMIIkB.pdf">**resume**</a> 
+- 📫 Reach me at <a href="mailto:a.alshahriar23@gmail.com">**Email**</a>
 
 ---
 
