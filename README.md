@@ -99,13 +99,13 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 ## 🌐 Connect With Me
 
 <p align="left"> 
-<a href="https://github.com/claude17" target="_blank"> <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/> </a> 
+<a href="https://github.com/claude17"> <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/> </a> 
   
-<a href="https://www.linkedin.com/in/abdullah-al-shahriar-26535136b/" target="_blank"> <img title="LinkedIn" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="48"/> </a> 
+<a href="https://www.linkedin.com/in/abdullah-al-shahriar-26535136b/"> <img title="LinkedIn" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="48"/> </a> 
 
 <a href="mailto:a.alshahriar23@gmail.com"> <img title="Gmail" alt="Gmail" src="https://skillicons.dev/icons?i=gmail" height="48"/> </a> 
 
-<a href="https://shahriar-portfolio-woad.vercel.app/" target="_blank"> <img title="Portfolio" alt="Portfolio" src="https://skillicons.dev/icons?i=vercel" height="48"/> </a> 
+<a href="https://shahriar-portfolio-woad.vercel.app/"> <img title="Portfolio" alt="Portfolio" src="https://skillicons.dev/icons?i=vercel" height="48"/> </a> 
 </p>
 
 ---
