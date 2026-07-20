@@ -23,7 +23,7 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 - 🔭 Currently working on **full-stack web applications using Next.js, Express & PostgreSQL**
 - 🌱 Exploring and learning **Next.js**
 - 🤖 Interested in **Machine Learning** and **Computer Vision**
-- 🎯 Seeking **entry-level Software Engineering opportunities**
+- 📝 Checkout my <a href="https://shahriar-portfolio-woad.vercel.app/assets/resume-BGnMIIkB.pdf">resume</a> 
 - 📫 Reach me at **a.alshahriar23@gmail.com**
 
 ---
@@ -109,14 +109,6 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=claude17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claude17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
