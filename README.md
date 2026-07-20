@@ -7,7 +7,7 @@ Hi 👋 I'm Abdullah Al Shahriar
 </h1>
 
 <h3 align="center">
-Backend Developer • Full Stack Developer • Machine Learning Enthusiast
+Full Stack Developer • Backend Developer • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -18,15 +18,13 @@ Passionate about building scalable backend systems, REST APIs, and modern web ap
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate passionate about designing reliable backend systems and creating modern full-stack web applications.
+I'm a passionate **Backend & Full-Stack Developer** with a strong interest in building scalable web applications, designing RESTful APIs, and solving real-world problems through clean and efficient code. Alongside software development, I'm passionate about exploring **Machine Learning** and interested in **Computer Vision**..
 
-I enjoy solving real-world problems with clean architecture, scalable APIs, and efficient database design. Alongside web development, I also explore Machine Learning and Computer Vision.
-
-- 🌱 Currently learning **System Design** and **Docker**
-- 💻 Building scalable applications with **NestJS** & **Next.js**
-- 🛠️ Exploring backend architecture and clean code practices
-- 🤖 Interested in Machine Learning and Computer Vision
-- 🎯 Goal: Become a professional Backend Software Engineer
+- 🔭 Currently working on **full-stack web applications using Next.js, Express & PostgreSQL**
+- 🌱 Exploring and learning **Next.js**
+- 🤖 Interested in **Machine Learning** and **Computer Vision**
+- 🎯 Seeking **entry-level Software Engineering opportunities**
+- 📫 Reach me at **a.alshahriar23@gmail.com**
 
 ---
 
@@ -44,11 +42,9 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 </p>
 
 
-### 🎨 Frontend Development
+### ⚛️ Frontend Frameworks & Libraries
 
 <p>
-<a href="https://github.com/claude17"><img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="48"/></a>
-<a href="https://github.com/claude17"><img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="48"/></a>
 <a href="https://github.com/claude17"><img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="48"/></a>
 <a href="https://github.com/claude17"><img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="48"/></a>
 </p>
@@ -57,6 +53,8 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 ### 🎭 CSS Frameworks & UI
 
 <p>
+<a href="https://github.com/claude17"><img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="48"/></a>
+<a href="https://github.com/claude17"><img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="48"/></a>
 <a href="https://github.com/claude17"><img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="48"/></a>
 <a href="https://github.com/claude17"><img title="Bootstrap" alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="48"/></a>
 </p>
@@ -87,97 +85,27 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 </p>
 
 
-### 🔌 API Development
-
-<p>
-<a href="https://github.com/claude17">
-<img title="REST API" alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/claude17">
-<img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman" height="48"/>
-</a>
-</p>
-
-
-### 🤖 Machine Learning & Computer Vision
-
-<p>
-<a href="https://github.com/claude17">
-<img title="TensorFlow" alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow" height="48"/>
-</a>
-
-<a href="https://github.com/claude17">
-<img title="OpenCV" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-</a>
-
-<a href="https://github.com/claude17">
-<img title="YOLOv8" alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
-</a>
-</p>
-
-
-### 🛠️ Tools & Technologies
+### 🛠️ Developer Tools
 
 <p>
 <a href="https://github.com/claude17"><img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="48"/></a>
 <a href="https://github.com/claude17"><img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/></a>
 <a href="https://github.com/claude17"><img title="Visual Studio Code" alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" height="48"/></a>
+<a href="https://github.com/claude17"><img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman" height="48"/></a>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 💊 Medico — Online Medicine Delivery Platform
-
-- NestJS
-- Next.js
-- PostgreSQL
-- Tailwind CSS
-- REST API
-
-Backend-focused medicine delivery platform with authentication, product management, shopping cart, order management, and role-based access.
-
----
-
-### 🤖 NextGenRobotics
-
-E-commerce platform for robotics components built using ASP.NET MVC, Entity Framework, REST APIs and MS SQL Server.
-
----
-
-### 🚗 Vehicle Detection & Counting
-
-Computer Vision project using
-
-- YOLOv8
-- ByteTracker
-- Supervision
-
-for real-time vehicle detection and counting from fixed cameras.
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/claude17">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<p align="left"> 
+<a href="https://github.com/claude17" target="_blank"> <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/> </a> 
+  
+<a href="https://www.linkedin.com/in/abdullah-al-shahriar-26535136b/" target="_blank"> <img title="LinkedIn" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="48"/> </a> 
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<a href="mailto:a.alshahriar23@gmail.com"> <img title="Gmail" alt="Gmail" src="https://skillicons.dev/icons?i=gmail" height="48"/> </a> 
 
-<a href="mailto:a.alshahriar23@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
+<a href="https://shahriar-portfolio-woad.vercel.app/" target="_blank"> <img title="Portfolio" alt="Portfolio" src="https://skillicons.dev/icons?i=vercel" height="48"/> </a> 
 </p>
 
 ---
@@ -195,16 +123,6 @@ for real-time vehicle detection and counting from fixed cameras.
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=claude17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=claude17&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
