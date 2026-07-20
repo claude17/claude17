@@ -43,7 +43,6 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 <a href="https://github.com/claude17"><img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="48"/></a>
 </p>
 
----
 
 ### 🎨 Frontend Development
 
@@ -54,7 +53,6 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 <a href="https://github.com/claude17"><img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="48"/></a>
 </p>
 
----
 
 ### 🎭 CSS Frameworks & UI
 
@@ -63,7 +61,6 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 <a href="https://github.com/claude17"><img title="Bootstrap" alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="48"/></a>
 </p>
 
----
 
 ### ⚙️ Backend Development
 
@@ -73,7 +70,6 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 <a href="https://github.com/claude17"><img title="ASP.NET" alt="ASP.NET" src="https://skillicons.dev/icons?i=dotnet" height="48"/></a>
 </p>
 
----
 
 ### 🗄️ Databases
 
@@ -90,7 +86,6 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 </a>
 </p>
 
----
 
 ### 🔌 API Development
 
@@ -104,7 +99,6 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 </a>
 </p>
 
----
 
 ### 🤖 Machine Learning & Computer Vision
 
@@ -122,7 +116,6 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 </a>
 </p>
 
----
 
 ### 🛠️ Tools & Technologies
 
@@ -131,6 +124,7 @@ I enjoy solving real-world problems with clean architecture, scalable APIs, and 
 <a href="https://github.com/claude17"><img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/></a>
 <a href="https://github.com/claude17"><img title="Visual Studio Code" alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" height="48"/></a>
 </p>
+
 ---
 
 ## 📌 Featured Projects
