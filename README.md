@@ -37,15 +37,12 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-  <img title="C++" alt="C++" src="https://skillicons.dev/icons?i=cpp" height="48" />
-  <img title="C#" alt="C#" src="https://skillicons.dev/icons?i=cs" height="48" />
-  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="48" />
-  <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="48" />
-  <img title="PHP" alt="PHP" src="https://skillicons.dev/icons?i=php" height="48" />
-  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="48" />
-</p>
-
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
 
 ### ⚛️ Frontend Frameworks & Libraries
 
