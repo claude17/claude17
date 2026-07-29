@@ -107,39 +107,10 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/claude17" target="_blank">
+  <a href="https://github.com/claude17">
     <img
-      src="https://skillicons.dev/icons?i=github"
-      height="48"
-      alt="GitHub"
-      title="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/abdullah-al-shahriar-26535136b/" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      height="48"
-      alt="LinkedIn"
-      title="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:a.alshahriar23@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      height="48"
-      alt="Email"
-      title="Email"
-    />
-  </a>
-
-  <a href="https://shahriar-portfolio-woad.vercel.app/" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=vercel"
-      height="48"
-      alt="Portfolio"
-      title="Portfolio"
+      src="https://skillicons.dev/icons?i=github,linkedin,gmail,vercel&perline=4"
+      alt="Connect With Me"
     />
   </a>
 </p>
