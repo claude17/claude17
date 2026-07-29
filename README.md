@@ -6,9 +6,14 @@
 Hi 👋 I'm Abdullah Al Shahriar
 </h1>
 
-<h1 align="center">
-<a href="https://github.com/claude17" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=2B90FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast"></a>
-</h1>
+<p align="center">
+  <a href="https://github.com/claude17">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p align="center">
 Passionate about building scalable backend systems, REST APIs, and modern web applications.
