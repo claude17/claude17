@@ -41,6 +41,8 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php,python&perline=6" />
 </p>
 
+**C++ • C# • JavaScript • TypeScript • PHP • Python**
+
 ### ⚛️ Frontend Frameworks & Libraries
 
 <p>
