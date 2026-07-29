@@ -108,10 +108,19 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 
 <p align="left">
   <a href="https://github.com/claude17">
-    <img
-      src="https://skillicons.dev/icons?i=github,linkedin,gmail,vercel&perline=4"
-      alt="Connect With Me"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdullah-al-shahriar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:a.alshahriar23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://shahriar-portfolio-woad.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
