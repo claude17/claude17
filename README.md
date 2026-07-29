@@ -37,8 +37,6 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 
 ### 👨‍💻 Programming Languages
 
-### 👨‍💻 Programming Languages
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php,python&perline=6" />
 </p>
