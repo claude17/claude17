@@ -37,12 +37,11 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 
 ### 👨‍💻 Programming Languages
 
-![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=cs)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![PHP](https://skillicons.dev/icons?i=php)
-![Python](https://skillicons.dev/icons?i=python)
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php,python&perline=6" />
+</p>
 
 ### ⚛️ Frontend Frameworks & Libraries
 
