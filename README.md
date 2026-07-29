@@ -48,55 +48,65 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 
 ### ⚛️ Frontend Frameworks & Libraries
 
-<p>
-<a href="https://github.com/claude17"><img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="48"/></a>
-<a href="https://github.com/claude17"><img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="48"/></a>
+<p align="left">
+  <a href="https://github.com/claude17">
+    <img
+      src="https://skillicons.dev/icons?i=react,nextjs&perline=2"
+      alt="Frontend"
+    />
+  </a>
 </p>
 
 
 ### 🎭 CSS Frameworks & UI
 
-<p>
-<a href="https://github.com/claude17"><img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="48"/></a>
-<a href="https://github.com/claude17"><img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="48"/></a>
-<a href="https://github.com/claude17"><img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="48"/></a>
-<a href="https://github.com/claude17"><img title="Bootstrap" alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="48"/></a>
+<p align="left">
+  <a href="https://github.com/claude17">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=4"
+      alt="CSS Frameworks"
+    />
+  </a>
 </p>
 
 
 ### ⚙️ Backend Frameworks & Runtime
 
-<p>
-<a href="https://github.com/claude17"><img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="48"/></a>
-<a href="https://github.com/claude17"><img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="48"/></a>
-<a href="https://github.com/claude17"><img title="NestJS" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs" height="48"/></a>
-<a href="https://github.com/claude17"><img title="ASP.NET MVC / .NET" alt="ASP.NET MVC / .NET" src="https://skillicons.dev/icons?i=dotnet" height="48"/></a>
+<p align="left">
+  <a href="https://github.com/claude17">
+    <img
+      src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet&perline=4"
+      alt="Backend"
+    />
+  </a>
 </p>
 
 
 ### 🗄️ Databases
 
-<p>
-<a href="https://github.com/claude17"><img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="48"/></a>
-<a href="https://github.com/claude17"><img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="48"/></a>
-
-<a href="https://github.com/claude17">
-<img title="Microsoft SQL Server" alt="Microsoft SQL Server" src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</a>
-
-<a href="https://github.com/claude17">
-<img title="Oracle Database" alt="Oracle Database" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="https://github.com/claude17">
+    <img
+      src="https://skillicons.dev/icons?i=postgres,mysql&perline=2"
+      alt="Databases"
+      title="Click to visit my GitHub profile"
+    />
+  </a>
 </p>
 
+<img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### 🛠️ Developer Tools
 
-<p>
-<a href="https://github.com/claude17"><img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="48"/></a>
-<a href="https://github.com/claude17"><img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/></a>
-<a href="https://github.com/claude17"><img title="Visual Studio Code" alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" height="48"/></a>
-<a href="https://github.com/claude17"><img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman" height="48"/></a>
+<p align="left">
+  <a href="https://github.com/claude17">
+    <img
+      src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4"
+      alt="Developer Tools"
+      title="Click to visit my GitHub profile"
+    />
+  </a>
 </p>
 
 ---
