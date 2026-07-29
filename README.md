@@ -108,16 +108,6 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=claude17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=claude17&style=for-the-badge&color=blue"/>
