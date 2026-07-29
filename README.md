@@ -88,22 +88,6 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
   <a href="https://github.com/claude17">
     <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Databases" />
   </a>
-
-  <a href="https://github.com/claude17">
-    <img
-      src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
-      height="48"
-      alt="MS SQL"
-    />
-  </a>
-
-  <a href="https://github.com/claude17">
-    <img
-      src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-      height="48"
-      alt="Oracle"
-    />
-  </a>
 </p>
 
 ### 🛠️ Developer Tools
