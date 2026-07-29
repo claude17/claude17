@@ -38,10 +38,13 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php,python&perline=6" />
+  <a href="https://github.com/claude17">
+    <img
+      src="https://skillicons.dev/icons?i=cpp,cs,js,ts,php,python&perline=6"
+      alt="Programming Languages"
+    />
+  </a>
 </p>
-
-**C++ • C# • JavaScript • TypeScript • PHP • Python**
 
 ### ⚛️ Frontend Frameworks & Libraries
 
