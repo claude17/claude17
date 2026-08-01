@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://github.com/claude17">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Abdullah%20Al%20Shahriar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=55"/>
+    </a>
 </p>
 
 <h1 align="center">
@@ -97,7 +99,6 @@ I'm a passionate **Backend & Full-Stack Developer** with a strong interest in bu
     <img
       src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4"
       alt="Developer Tools"
-      title="Click to visit my GitHub profile"
     />
   </a>
 </p>
